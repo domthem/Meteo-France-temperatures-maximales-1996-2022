@@ -7,30 +7,28 @@ Nous nous proposons ici d'utiliser les données de températures au sol pour vis
 
 Les grandes étapes de l’étude sont :
 
-La sélection des stations à partir des données fournies par Météo-France : ici on se limitera aux stations de France métropolitaine . La sélection est faite en ne conservant que les stations situées à moins de 1000 km de Paris.[Notebook : xxxxx]
+a-La sélection des stations à partir des données fournies par Météo-France : ici on se limitera aux stations de France métropolitaine . La sélection est faite en ne conservant que les stations situées à moins de 1000 km de Paris.[Notebook : meteo_1_selection_des_stations]
 Finalement le nombre de stations retenues est de 40.
 
-L’analyse de la qualité des données sur une première base de dimension réduite (quelques années ) : à l’issue de cette phase on décide de se limiter à la variable de température au sol et d’éliminer les stations dont les données sont très incomplètes.[Notebook : xxxxx]
+b-L’analyse de la qualité des données sur une première base de dimension réduite (quelques années ) : à l’issue de cette phase on décide de se limiter à la variable de température au sol et d’éliminer les stations dont les données sont très incomplètes.[Notebook : meteo_2_qualite_data]
 
-La concaténation de l’ensemble des fichiers mensuels de janvier 1996 à décembre 2022 .[Notebook : xxxxx]
+c-La concaténation de l’ensemble des fichiers mensuels de janvier 1996 à décembre 2022 .[Notebook : meteo_3_concaténation_fichiers_synop]
 
-La construction de la base de données finale : pour chaque jour et chaque station on conserve une température à savoir la valeur maximale des 8 mesures disponibles ( une toutes les trois heures) . Les autres données de la base sont les identifiants et noms des stations ainsi que leurs coordonnées géographiques (latitude , longitude et altitude) .
+d-La construction de la base de données finale : pour chaque jour et chaque station on conserve une température à savoir la valeur maximale des 8 mesures disponibles ( une toutes les trois heures) . Les autres données de la base sont les identifiants et noms des stations ainsi que leurs coordonnées géographiques (latitude , longitude et altitude) .
 
-On dispose donc d’une température maximale par jour sur une période de 27 années en 40 points du territoire français.[Notebook : xxxxx]
+On dispose donc d’une température maximale par jour sur une période de 27 années en 40 points du territoire français.[Notebook : meteo_4_construction de la base]
 
 Aucune donnée supplémentaire , en provenance d’une autre source n’est ajoutée à cette base.
 
 
-L’ analyse finale .
+e L’ analyse finale , dont les résultats sont présentés ci-dessous
   
   
 
      
-Résultats de l'analyse de données
+Résultats de l'analyse de données.[Notebook : meteo_5_analyse_finale]
 
-     [Notebook : xxxxx]
-
-
+  
 
 1-Variabilité et distribution des températures maximales
    
