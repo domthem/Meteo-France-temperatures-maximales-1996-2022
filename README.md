@@ -1,5 +1,6 @@
 # Meteo-France-temperatures-maximales
 Evolution des températures journalières maximales en France depuis 1996
+
 Météo France met à disposition du public , en source ouverte , différentes données parmi lesquelles  les “Données Synop essentielles OMM” . Il s’agit  de données émises sur le réseau de l’ OMM (Organisation Météorologique Mondiale) , à la fréquence d’un message toutes les trois heures sous un format codé spécifique , appelé SYNOP , à partir des données enregistrées par des stations météorologiques terrestres . 
 Météo France diffuse également ces données sous forme de fichiers mensuels au format csv , que l’on peut télécharger sur son site à l’adresse suivante Données Publiques de Météo-France - Données SYNOP essentielles OMM (meteofrance.fr)
 
