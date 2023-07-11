@@ -69,4 +69,4 @@ Le tableau des corrélations indique une tendance à l’augmentation au cours d
 
 Les graphiques réalisés pour les 4 stations sélectionnées [meteo_graphe8] illustrent cette tendance et montrent  la singularité de l’année 2003 , année considérée à l’époque comme année de canicule , avec une surmortalité démontrée durant l’été 2003 (référence…)
 
-La série de cartes simplifiées , avec un codage de couleur par classe de 10 jours , illustrent également cette tendance à l’augmentation avec une propagation vers le nord.
+La série de cartes simplifiées , avec un codage de couleur par classe de 10 jours , illustre également cette tendance à l’augmentation avec une propagation vers le nord.
