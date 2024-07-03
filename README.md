@@ -32,21 +32,12 @@ Résultats de l'analyse de données.[Notebook : meteo_5_analyse_finale]
   
 
 1-Variabilité et distribution des températures maximales
+
+La variable température maximale ne présente pas une distribution normale.
    
-L’analyse de variance (Anova) montre un effet significatif des 5 variables testées , latitude , longitude , altitude , mois et année [meteo_tableau1] . 
+Les analyses statistiques montrent qu'il existent des relations significatives avec les 6 variables testées , latitude , longitude , altitude , station ,mois et année.
+Il faut noter cependant que dans le cas des 3 premières variables citées la relation est faible.
   
-La température maximale journalière varie avec l’année et la tendance est à l’augmentation , comme le montre la corrélation  [meteo_tableau2]
-
-L’effet “année” est nettement inférieur aux effets “Latitude” , effet de la position en latitude de la station météo , et “Mois” , effet saisonnier de variation des températures en cours d’année, mais est tout à fait significatif.
-
-Quelques éléments pour illustrer ce point :
-En 2022 , les températures maximales mesurées en septembre  vont de 18°C , en moyenne , pour Lille-Lesquin de latitude 50.570 ,  à 25°C  pour Ajaccio de latitude 41.918 . [meteo_graphe1]
-
-au cours de cette même année les valeurs moyennes mensuelles des températures maximales ont varié de 6 °C en janvier à 27°C en juillet pour la station de Lille-Lesquin [meteo_graphe2],[meteo_graphe3]
-
-l’écart pour  Lille -Lesquin entre les moyennes annuelles des années 1996 et 2022  , statistiquement significatif , est de 3.8°C [meteo_graphe5]
-
-
 Globalement on observe pour chaque  station un glissement au cours des années  de la distribution des températures maximales journalières vers des valeurs plus élevées .[meteo_graphe4]
 On peut l'analyser à travers deux paramètres , d’une part la moyenne annuelle des températures , d’autre part le nombre de jours par année où la température maximale dépasse 30°C
 
@@ -67,6 +58,7 @@ L’analyse Anova montre un effet significatif des variables latitude,longitude 
 
 Le tableau des corrélations indique une tendance à l’augmentation au cours des années[tableau_meteo6]
 
-Les graphiques réalisés pour les 4 stations sélectionnées [meteo_graphe8] illustrent cette tendance et montrent  la singularité de l’année 2003 , année considérée à l’époque comme année de canicule , avec une surmortalité démontrée durant l’été 2003 (référence…)
+Les graphiques réalisés pour les 4 stations sélectionnées [meteo_graphe8] illustrent cette tendance et montrent  la singularité de l’année 2003 , année considérée à l’époque comme année de canicule .
+Le graphique suivant [meteo_graphe9] présente sous forme de boxplot l'évolution au cours des années de la distribution du nombre de jours à température maxiamle > 30°C des 40 stations.
 
 La série de cartes simplifiées , avec un codage de couleur par classe de 10 jours , illustre également cette tendance à l’augmentation avec une propagation vers le nord.
