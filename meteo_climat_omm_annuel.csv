@@ -1,0 +1,1188 @@
+Année,ID_station,Jours>=30°C,Station
+1996,07005,1.0,Abbeville
+1996,07015,2.0,Lille-Lesquin
+1996,07020,0.0,Cap de La Hague
+1996,07027,4.0,Caen-Carpiquet
+1996,07037,4.0,Rouen-Boos
+1996,07110,0.0,Brest-Guipavas
+1996,07130,3.0,Rennes-St Jacques
+1996,07139,2.0,Alençon - Valframbert
+1996,07149,6.0,Orly - Athis-Mons
+1996,07190,5.0,Strasbourg-Entzheim
+1996,07207,0.0,Belle Ile-Le Talut
+1996,07222,7.0,Nantes-Atlantique
+1996,07240,9.0,Tours - Parcay-Meslay
+1996,07255,8.0,Bourges
+1996,07280,5.0,Dijon-Longvic
+1996,07299,7.0,Bâle-Mulhouse
+1996,07314,1.0,Pointe de Chassiron
+1996,07335,8.0,Poitiers-Biard
+1996,07434,1.0,Limoges-Bellegarde
+1996,07460,8.0,Clermont-Ferrand - Aulnat
+1996,07471,1.0,Le Puy-Loudes
+1996,07481,7.0,Lyon-St Exupéry
+1996,07510,24.0,Bordeaux-Mérignac
+1996,07535,30.0,Gourdon
+1996,07577,21.0,Montélimar - Ancone
+1996,07591,1.0,Embrun
+1996,07607,25.0,Mont-de-Marsan
+1996,07621,8.0,Tarbes - Ossun - Lourdes
+1996,07627,3.0,Saint-Girons - Antichan
+1996,07630,28.0,Toulouse-Blagnac
+1996,07643,28.0,Montpellier - Fréjorgues
+1996,07650,28.0,Marseille-Marignane (Marseille Provence)
+1996,07661,3.0,Saint-Mandrier-sur-Mer - Cap Cépet
+1996,07690,1.0,Nice - Côte d'Azur
+1996,07747,24.0,Perpignan - Rivesaltes
+1996,07761,7.0,Ajaccio - Campo dell'Oro
+1996,07790,16.0,Bastia - Poretta
+1997,07005,3.0,Abbeville
+1997,07015,7.0,Lille-Lesquin
+1997,07020,0.0,Cap de La Hague
+1997,07027,4.0,Caen-Carpiquet
+1997,07037,3.0,Rouen-Boos
+1997,07110,0.0,Brest-Guipavas
+1997,07117,0.0,Ploumanac'h - Perros
+1997,07130,10.0,Rennes-St Jacques
+1997,07139,8.0,Alençon - Valframbert
+1997,07149,17.0,Orly - Athis-Mons
+1997,07190,11.0,Strasbourg-Entzheim
+1997,07207,1.0,Belle Ile-Le Talut
+1997,07222,12.0,Nantes-Atlantique
+1997,07240,9.0,Tours - Parcay-Meslay
+1997,07255,15.0,Bourges
+1997,07280,10.0,Dijon-Longvic
+1997,07299,11.0,Bâle-Mulhouse
+1997,07314,3.0,Pointe de Chassiron
+1997,07335,15.0,Poitiers-Biard
+1997,07434,8.0,Limoges-Bellegarde
+1997,07460,19.0,Clermont-Ferrand - Aulnat
+1997,07471,4.0,Le Puy-Loudes
+1997,07481,22.0,Lyon-St Exupéry
+1997,07510,24.0,Bordeaux-Mérignac
+1997,07535,24.0,Gourdon
+1997,07577,33.0,Montélimar - Ancone
+1997,07591,3.0,Embrun
+1997,07607,19.0,Mont-de-Marsan
+1997,07621,8.0,Tarbes - Ossun - Lourdes
+1997,07627,9.0,Saint-Girons - Antichan
+1997,07630,25.0,Toulouse-Blagnac
+1997,07643,25.0,Montpellier - Fréjorgues
+1997,07650,37.0,Marseille-Marignane (Marseille Provence)
+1997,07661,5.0,Saint-Mandrier-sur-Mer - Cap Cépet
+1997,07690,0.0,Nice - Côte d'Azur
+1997,07747,28.0,Perpignan - Rivesaltes
+1997,07761,11.0,Ajaccio - Campo dell'Oro
+1997,07790,16.0,Bastia - Poretta
+1998,07005,1.0,Abbeville
+1998,07015,7.0,Lille-Lesquin
+1998,07020,0.0,Cap de La Hague
+1998,07027,2.0,Caen-Carpiquet
+1998,07037,7.0,Rouen-Boos
+1998,07110,1.0,Brest-Guipavas
+1998,07117,2.0,Ploumanac'h - Perros
+1998,07130,5.0,Rennes-St Jacques
+1998,07139,6.0,Alençon - Valframbert
+1998,07149,8.0,Orly - Athis-Mons
+1998,07190,17.0,Strasbourg-Entzheim
+1998,07207,0.0,Belle Ile-Le Talut
+1998,07222,8.0,Nantes-Atlantique
+1998,07240,11.0,Tours - Parcay-Meslay
+1998,07255,13.0,Bourges
+1998,07280,13.0,Dijon-Longvic
+1998,07299,17.0,Bâle-Mulhouse
+1998,07314,2.0,Pointe de Chassiron
+1998,07335,12.0,Poitiers-Biard
+1998,07434,8.0,Limoges-Bellegarde
+1998,07460,16.0,Clermont-Ferrand - Aulnat
+1998,07471,10.0,Le Puy-Loudes
+1998,07481,20.0,Lyon-St Exupéry
+1998,07510,22.0,Bordeaux-Mérignac
+1998,07535,34.0,Gourdon
+1998,07577,39.0,Montélimar - Ancone
+1998,07591,25.0,Embrun
+1998,07607,20.0,Mont-de-Marsan
+1998,07621,12.0,Tarbes - Ossun - Lourdes
+1998,07627,13.0,Saint-Girons - Antichan
+1998,07630,22.0,Toulouse-Blagnac
+1998,07643,37.0,Montpellier - Fréjorgues
+1998,07650,48.0,Marseille-Marignane (Marseille Provence)
+1998,07661,13.0,Saint-Mandrier-sur-Mer - Cap Cépet
+1998,07690,5.0,Nice - Côte d'Azur
+1998,07747,31.0,Perpignan - Rivesaltes
+1998,07761,11.0,Ajaccio - Campo dell'Oro
+1998,07790,20.0,Bastia - Poretta
+1999,07005,5.0,Abbeville
+1999,07015,6.0,Lille-Lesquin
+1999,07020,0.0,Cap de La Hague
+1999,07027,3.0,Caen-Carpiquet
+1999,07037,4.0,Rouen-Boos
+1999,07110,0.0,Brest-Guipavas
+1999,07117,0.0,Ploumanac'h - Perros
+1999,07130,10.0,Rennes-St Jacques
+1999,07139,9.0,Alençon - Valframbert
+1999,07149,9.0,Orly - Athis-Mons
+1999,07190,11.0,Strasbourg-Entzheim
+1999,07207,1.0,Belle Ile-Le Talut
+1999,07222,8.0,Nantes-Atlantique
+1999,07240,12.0,Tours - Parcay-Meslay
+1999,07255,9.0,Bourges
+1999,07280,9.0,Dijon-Longvic
+1999,07299,9.0,Bâle-Mulhouse
+1999,07314,2.0,Pointe de Chassiron
+1999,07335,8.0,Poitiers-Biard
+1999,07434,4.0,Limoges-Bellegarde
+1999,07460,16.0,Clermont-Ferrand - Aulnat
+1999,07471,3.0,Le Puy-Loudes
+1999,07481,21.0,Lyon-St Exupéry
+1999,07510,19.0,Bordeaux-Mérignac
+1999,07535,22.0,Gourdon
+1999,07577,38.0,Montélimar - Ancone
+1999,07591,8.0,Embrun
+1999,07607,19.0,Mont-de-Marsan
+1999,07621,10.0,Tarbes - Ossun - Lourdes
+1999,07627,6.0,Saint-Girons - Antichan
+1999,07630,31.0,Toulouse-Blagnac
+1999,07643,20.0,Montpellier - Fréjorgues
+1999,07650,50.0,Marseille-Marignane (Marseille Provence)
+1999,07661,9.0,Saint-Mandrier-sur-Mer - Cap Cépet
+1999,07690,4.0,Nice - Côte d'Azur
+1999,07747,24.0,Perpignan - Rivesaltes
+1999,07761,18.0,Ajaccio - Campo dell'Oro
+1999,07790,20.0,Bastia - Poretta
+2000,07005,1.0,Abbeville
+2000,07015,3.0,Lille-Lesquin
+2000,07020,0.0,Cap de La Hague
+2000,07027,5.0,Caen-Carpiquet
+2000,07037,2.0,Rouen-Boos
+2000,07110,0.0,Brest-Guipavas
+2000,07117,1.0,Ploumanac'h - Perros
+2000,07130,5.0,Rennes-St Jacques
+2000,07139,4.0,Alençon - Valframbert
+2000,07149,7.0,Orly - Athis-Mons
+2000,07190,10.0,Strasbourg-Entzheim
+2000,07207,0.0,Belle Ile-Le Talut
+2000,07222,9.0,Nantes-Atlantique
+2000,07240,8.0,Tours - Parcay-Meslay
+2000,07255,11.0,Bourges
+2000,07280,15.0,Dijon-Longvic
+2000,07299,16.0,Bâle-Mulhouse
+2000,07314,2.0,Pointe de Chassiron
+2000,07335,10.0,Poitiers-Biard
+2000,07434,4.0,Limoges-Bellegarde
+2000,07460,21.0,Clermont-Ferrand - Aulnat
+2000,07471,7.0,Le Puy-Loudes
+2000,07481,25.0,Lyon-St Exupéry
+2000,07510,21.0,Bordeaux-Mérignac
+2000,07535,30.0,Gourdon
+2000,07577,32.0,Montélimar - Ancone
+2000,07591,14.0,Embrun
+2000,07607,27.0,Mont-de-Marsan
+2000,07621,9.0,Tarbes - Ossun - Lourdes
+2000,07627,7.0,Saint-Girons - Antichan
+2000,07630,26.0,Toulouse-Blagnac
+2000,07643,20.0,Montpellier - Fréjorgues
+2000,07650,32.0,Marseille-Marignane (Marseille Provence)
+2000,07661,4.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2000,07690,3.0,Nice - Côte d'Azur
+2000,07747,12.0,Perpignan - Rivesaltes
+2000,07761,20.0,Ajaccio - Campo dell'Oro
+2000,07790,18.0,Bastia - Poretta
+2001,07005,5.0,Abbeville
+2001,07015,7.0,Lille-Lesquin
+2001,07020,0.0,Cap de La Hague
+2001,07027,6.0,Caen-Carpiquet
+2001,07037,7.0,Rouen-Boos
+2001,07110,0.0,Brest-Guipavas
+2001,07117,1.0,Ploumanac'h - Perros
+2001,07130,11.0,Rennes-St Jacques
+2001,07139,10.0,Alençon - Valframbert
+2001,07149,14.0,Orly - Athis-Mons
+2001,07190,19.0,Strasbourg-Entzheim
+2001,07207,0.0,Belle Ile-Le Talut
+2001,07222,12.0,Nantes-Atlantique
+2001,07240,14.0,Tours - Parcay-Meslay
+2001,07255,16.0,Bourges
+2001,07280,16.0,Dijon-Longvic
+2001,07299,14.0,Bâle-Mulhouse
+2001,07314,1.0,Pointe de Chassiron
+2001,07335,18.0,Poitiers-Biard
+2001,07434,7.0,Limoges-Bellegarde
+2001,07460,23.0,Clermont-Ferrand - Aulnat
+2001,07471,4.0,Le Puy-Loudes
+2001,07481,23.0,Lyon-St Exupéry
+2001,07510,28.0,Bordeaux-Mérignac
+2001,07535,29.0,Gourdon
+2001,07577,45.0,Montélimar - Ancone
+2001,07591,25.0,Embrun
+2001,07607,31.0,Mont-de-Marsan
+2001,07621,17.0,Tarbes - Ossun - Lourdes
+2001,07627,18.0,Saint-Girons - Antichan
+2001,07630,25.0,Toulouse-Blagnac
+2001,07643,30.0,Montpellier - Fréjorgues
+2001,07650,49.0,Marseille-Marignane (Marseille Provence)
+2001,07661,6.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2001,07690,11.0,Nice - Côte d'Azur
+2001,07747,38.0,Perpignan - Rivesaltes
+2001,07761,15.0,Ajaccio - Campo dell'Oro
+2001,07790,23.0,Bastia - Poretta
+2002,07005,2.0,Abbeville
+2002,07015,7.0,Lille-Lesquin
+2002,07020,0.0,Cap de La Hague
+2002,07027,0.0,Caen-Carpiquet
+2002,07037,4.0,Rouen-Boos
+2002,07110,0.0,Brest-Guipavas
+2002,07117,1.0,Ploumanac'h - Perros
+2002,07130,2.0,Rennes-St Jacques
+2002,07139,5.0,Alençon - Valframbert
+2002,07149,9.0,Orly - Athis-Mons
+2002,07168,0.0,Troyes-Barberey
+2002,07181,0.0,Nancy-Ochey
+2002,07190,8.0,Strasbourg-Entzheim
+2002,07207,0.0,Belle Ile-Le Talut
+2002,07222,3.0,Nantes-Atlantique
+2002,07240,9.0,Tours - Parcay-Meslay
+2002,07255,11.0,Bourges
+2002,07280,14.0,Dijon-Longvic
+2002,07299,12.0,Bâle-Mulhouse
+2002,07314,1.0,Pointe de Chassiron
+2002,07335,9.0,Poitiers-Biard
+2002,07434,4.0,Limoges-Bellegarde
+2002,07460,15.0,Clermont-Ferrand - Aulnat
+2002,07471,9.0,Le Puy-Loudes
+2002,07481,17.0,Lyon-St Exupéry
+2002,07510,15.0,Bordeaux-Mérignac
+2002,07535,18.0,Gourdon
+2002,07577,26.0,Montélimar - Ancone
+2002,07591,17.0,Embrun
+2002,07607,22.0,Mont-de-Marsan
+2002,07621,6.0,Tarbes - Ossun - Lourdes
+2002,07627,7.0,Saint-Girons - Antichan
+2002,07630,19.0,Toulouse-Blagnac
+2002,07643,18.0,Montpellier - Fréjorgues
+2002,07650,35.0,Marseille-Marignane (Marseille Provence)
+2002,07661,14.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2002,07690,6.0,Nice - Côte d'Azur
+2002,07747,18.0,Perpignan - Rivesaltes
+2002,07761,10.0,Ajaccio - Campo dell'Oro
+2002,07790,25.0,Bastia - Poretta
+2003,07005,11.0,Abbeville
+2003,07015,13.0,Lille-Lesquin
+2003,07020,0.0,Cap de La Hague
+2003,07027,10.0,Caen-Carpiquet
+2003,07037,14.0,Rouen-Boos
+2003,07110,4.0,Brest-Guipavas
+2003,07117,2.0,Ploumanac'h - Perros
+2003,07130,23.0,Rennes-St Jacques
+2003,07139,19.0,Alençon - Valframbert
+2003,07149,23.0,Orly - Athis-Mons
+2003,07168,27.0,Troyes-Barberey
+2003,07181,23.0,Nancy-Ochey
+2003,07190,38.0,Strasbourg-Entzheim
+2003,07207,6.0,Belle Ile-Le Talut
+2003,07222,24.0,Nantes-Atlantique
+2003,07240,27.0,Tours - Parcay-Meslay
+2003,07255,32.0,Bourges
+2003,07280,49.0,Dijon-Longvic
+2003,07299,52.0,Bâle-Mulhouse
+2003,07314,7.0,Pointe de Chassiron
+2003,07335,36.0,Poitiers-Biard
+2003,07434,24.0,Limoges-Bellegarde
+2003,07460,47.0,Clermont-Ferrand - Aulnat
+2003,07471,31.0,Le Puy-Loudes
+2003,07481,62.0,Lyon-St Exupéry
+2003,07510,50.0,Bordeaux-Mérignac
+2003,07535,61.0,Gourdon
+2003,07577,80.0,Montélimar - Ancone
+2003,07591,55.0,Embrun
+2003,07607,63.0,Mont-de-Marsan
+2003,07621,35.0,Tarbes - Ossun - Lourdes
+2003,07627,42.0,Saint-Girons - Antichan
+2003,07630,66.0,Toulouse-Blagnac
+2003,07643,55.0,Montpellier - Fréjorgues
+2003,07650,82.0,Marseille-Marignane (Marseille Provence)
+2003,07661,43.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2003,07690,31.0,Nice - Côte d'Azur
+2003,07747,65.0,Perpignan - Rivesaltes
+2003,07761,56.0,Ajaccio - Campo dell'Oro
+2003,07790,75.0,Bastia - Poretta
+2004,07005,3.0,Abbeville
+2004,07015,4.0,Lille-Lesquin
+2004,07020,0.0,Cap de La Hague
+2004,07027,2.0,Caen-Carpiquet
+2004,07037,3.0,Rouen-Boos
+2004,07110,1.0,Brest-Guipavas
+2004,07117,0.0,Ploumanac'h - Perros
+2004,07130,11.0,Rennes-St Jacques
+2004,07139,5.0,Alençon - Valframbert
+2004,07149,11.0,Orly - Athis-Mons
+2004,07168,13.0,Troyes-Barberey
+2004,07181,8.0,Nancy-Ochey
+2004,07190,14.0,Strasbourg-Entzheim
+2004,07207,0.0,Belle Ile-Le Talut
+2004,07222,11.0,Nantes-Atlantique
+2004,07240,13.0,Tours - Parcay-Meslay
+2004,07255,12.0,Bourges
+2004,07280,13.0,Dijon-Longvic
+2004,07299,19.0,Bâle-Mulhouse
+2004,07314,3.0,Pointe de Chassiron
+2004,07335,18.0,Poitiers-Biard
+2004,07434,3.0,Limoges-Bellegarde
+2004,07460,15.0,Clermont-Ferrand - Aulnat
+2004,07471,6.0,Le Puy-Loudes
+2004,07481,26.0,Lyon-St Exupéry
+2004,07510,23.0,Bordeaux-Mérignac
+2004,07535,25.0,Gourdon
+2004,07577,40.0,Montélimar - Ancone
+2004,07591,26.0,Embrun
+2004,07607,38.0,Mont-de-Marsan
+2004,07621,13.0,Tarbes - Ossun - Lourdes
+2004,07627,17.0,Saint-Girons - Antichan
+2004,07630,27.0,Toulouse-Blagnac
+2004,07643,21.0,Montpellier - Fréjorgues
+2004,07650,50.0,Marseille-Marignane (Marseille Provence)
+2004,07661,8.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2004,07690,6.0,Nice - Côte d'Azur
+2004,07747,28.0,Perpignan - Rivesaltes
+2004,07761,18.0,Ajaccio - Campo dell'Oro
+2004,07790,22.0,Bastia - Poretta
+2005,07005,6.0,Abbeville
+2005,07015,6.0,Lille-Lesquin
+2005,07020,0.0,Cap de La Hague
+2005,07027,6.0,Caen-Carpiquet
+2005,07037,4.0,Rouen-Boos
+2005,07110,2.0,Brest-Guipavas
+2005,07117,0.0,Ploumanac'h - Perros
+2005,07130,15.0,Rennes-St Jacques
+2005,07139,14.0,Alençon - Valframbert
+2005,07149,18.0,Orly - Athis-Mons
+2005,07168,20.0,Troyes-Barberey
+2005,07181,10.0,Nancy-Ochey
+2005,07190,23.0,Strasbourg-Entzheim
+2005,07207,3.0,Belle Ile-Le Talut
+2005,07222,17.0,Nantes-Atlantique
+2005,07240,24.0,Tours - Parcay-Meslay
+2005,07255,26.0,Bourges
+2005,07280,21.0,Dijon-Longvic
+2005,07299,23.0,Bâle-Mulhouse
+2005,07314,3.0,Pointe de Chassiron
+2005,07335,23.0,Poitiers-Biard
+2005,07434,16.0,Limoges-Bellegarde
+2005,07460,26.0,Clermont-Ferrand - Aulnat
+2005,07471,15.0,Le Puy-Loudes
+2005,07481,31.0,Lyon-St Exupéry
+2005,07510,33.0,Bordeaux-Mérignac
+2005,07535,36.0,Gourdon
+2005,07577,42.0,Montélimar - Ancone
+2005,07591,17.0,Embrun
+2005,07607,45.0,Mont-de-Marsan
+2005,07621,18.0,Tarbes - Ossun - Lourdes
+2005,07627,18.0,Saint-Girons - Antichan
+2005,07630,32.0,Toulouse-Blagnac
+2005,07643,35.0,Montpellier - Fréjorgues
+2005,07650,47.0,Marseille-Marignane (Marseille Provence)
+2005,07661,12.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2005,07690,8.0,Nice - Côte d'Azur
+2005,07747,29.0,Perpignan - Rivesaltes
+2005,07761,14.0,Ajaccio - Campo dell'Oro
+2005,07790,24.0,Bastia - Poretta
+2006,07005,8.0,Abbeville
+2006,07015,9.0,Lille-Lesquin
+2006,07020,0.0,Cap de La Hague
+2006,07027,9.0,Caen-Carpiquet
+2006,07037,10.0,Rouen-Boos
+2006,07110,3.0,Brest-Guipavas
+2006,07117,0.0,Ploumanac'h - Perros
+2006,07130,17.0,Rennes-St Jacques
+2006,07139,17.0,Alençon - Valframbert
+2006,07149,25.0,Orly - Athis-Mons
+2006,07168,24.0,Troyes-Barberey
+2006,07181,16.0,Nancy-Ochey
+2006,07190,26.0,Strasbourg-Entzheim
+2006,07207,4.0,Belle Ile-Le Talut
+2006,07222,18.0,Nantes-Atlantique
+2006,07240,25.0,Tours - Parcay-Meslay
+2006,07255,29.0,Bourges
+2006,07280,24.0,Dijon-Longvic
+2006,07299,25.0,Bâle-Mulhouse
+2006,07314,9.0,Pointe de Chassiron
+2006,07335,27.0,Poitiers-Biard
+2006,07434,15.0,Limoges-Bellegarde
+2006,07460,25.0,Clermont-Ferrand - Aulnat
+2006,07471,6.0,Le Puy-Loudes
+2006,07481,37.0,Lyon-St Exupéry
+2006,07510,35.0,Bordeaux-Mérignac
+2006,07535,42.0,Gourdon
+2006,07577,47.0,Montélimar - Ancone
+2006,07591,32.0,Embrun
+2006,07607,48.0,Mont-de-Marsan
+2006,07621,23.0,Tarbes - Ossun - Lourdes
+2006,07627,26.0,Saint-Girons - Antichan
+2006,07630,37.0,Toulouse-Blagnac
+2006,07643,51.0,Montpellier - Fréjorgues
+2006,07650,57.0,Marseille-Marignane (Marseille Provence)
+2006,07661,24.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2006,07690,18.0,Nice - Côte d'Azur
+2006,07747,49.0,Perpignan - Rivesaltes
+2006,07761,38.0,Ajaccio - Campo dell'Oro
+2006,07790,31.0,Bastia - Poretta
+2007,07005,2.0,Abbeville
+2007,07015,2.0,Lille-Lesquin
+2007,07020,0.0,Cap de La Hague
+2007,07027,1.0,Caen-Carpiquet
+2007,07037,1.0,Rouen-Boos
+2007,07110,0.0,Brest-Guipavas
+2007,07117,0.0,Ploumanac'h - Perros
+2007,07130,1.0,Rennes-St Jacques
+2007,07139,0.0,Alençon - Valframbert
+2007,07149,4.0,Orly - Athis-Mons
+2007,07168,7.0,Troyes-Barberey
+2007,07181,1.0,Nancy-Ochey
+2007,07190,11.0,Strasbourg-Entzheim
+2007,07207,0.0,Belle Ile-Le Talut
+2007,07222,1.0,Nantes-Atlantique
+2007,07240,2.0,Tours - Parcay-Meslay
+2007,07255,4.0,Bourges
+2007,07280,7.0,Dijon-Longvic
+2007,07299,8.0,Bâle-Mulhouse
+2007,07314,0.0,Pointe de Chassiron
+2007,07335,2.0,Poitiers-Biard
+2007,07434,1.0,Limoges-Bellegarde
+2007,07460,10.0,Clermont-Ferrand - Aulnat
+2007,07471,2.0,Le Puy-Loudes
+2007,07481,9.0,Lyon-St Exupéry
+2007,07510,10.0,Bordeaux-Mérignac
+2007,07535,12.0,Gourdon
+2007,07577,31.0,Montélimar - Ancone
+2007,07591,22.0,Embrun
+2007,07607,16.0,Mont-de-Marsan
+2007,07621,9.0,Tarbes - Ossun - Lourdes
+2007,07627,11.0,Saint-Girons - Antichan
+2007,07630,15.0,Toulouse-Blagnac
+2007,07643,14.0,Montpellier - Fréjorgues
+2007,07650,34.0,Marseille-Marignane (Marseille Provence)
+2007,07661,7.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2007,07690,11.0,Nice - Côte d'Azur
+2007,07747,20.0,Perpignan - Rivesaltes
+2007,07761,14.0,Ajaccio - Campo dell'Oro
+2007,07790,14.0,Bastia - Poretta
+2008,07005,2.0,Abbeville
+2008,07015,1.0,Lille-Lesquin
+2008,07020,0.0,Cap de La Hague
+2008,07027,1.0,Caen-Carpiquet
+2008,07037,2.0,Rouen-Boos
+2008,07110,0.0,Brest-Guipavas
+2008,07117,0.0,Ploumanac'h - Perros
+2008,07130,1.0,Rennes-St Jacques
+2008,07139,1.0,Alençon - Valframbert
+2008,07149,5.0,Orly - Athis-Mons
+2008,07168,7.0,Troyes-Barberey
+2008,07181,3.0,Nancy-Ochey
+2008,07190,8.0,Strasbourg-Entzheim
+2008,07207,0.0,Belle Ile-Le Talut
+2008,07222,1.0,Nantes-Atlantique
+2008,07240,6.0,Tours - Parcay-Meslay
+2008,07255,7.0,Bourges
+2008,07280,7.0,Dijon-Longvic
+2008,07299,9.0,Bâle-Mulhouse
+2008,07314,0.0,Pointe de Chassiron
+2008,07335,5.0,Poitiers-Biard
+2008,07434,4.0,Limoges-Bellegarde
+2008,07460,11.0,Clermont-Ferrand - Aulnat
+2008,07471,0.0,Le Puy-Loudes
+2008,07481,12.0,Lyon-St Exupéry
+2008,07510,10.0,Bordeaux-Mérignac
+2008,07535,21.0,Gourdon
+2008,07577,25.0,Montélimar - Ancone
+2008,07591,17.0,Embrun
+2008,07607,19.0,Mont-de-Marsan
+2008,07621,8.0,Tarbes - Ossun - Lourdes
+2008,07627,12.0,Saint-Girons - Antichan
+2008,07630,25.0,Toulouse-Blagnac
+2008,07643,22.0,Montpellier - Fréjorgues
+2008,07650,51.0,Marseille-Marignane (Marseille Provence)
+2008,07661,9.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2008,07690,5.0,Nice - Côte d'Azur
+2008,07747,36.0,Perpignan - Rivesaltes
+2008,07761,23.0,Ajaccio - Campo dell'Oro
+2008,07790,27.0,Bastia - Poretta
+2009,07005,3.0,Abbeville
+2009,07015,7.0,Lille-Lesquin
+2009,07020,0.0,Cap de La Hague
+2009,07027,5.0,Caen-Carpiquet
+2009,07037,5.0,Rouen-Boos
+2009,07110,0.0,Brest-Guipavas
+2009,07117,0.0,Ploumanac'h - Perros
+2009,07130,7.0,Rennes-St Jacques
+2009,07139,8.0,Alençon - Valframbert
+2009,07149,12.0,Orly - Athis-Mons
+2009,07168,16.0,Troyes-Barberey
+2009,07181,5.0,Nancy-Ochey
+2009,07190,16.0,Strasbourg-Entzheim
+2009,07207,0.0,Belle Ile-Le Talut
+2009,07222,12.0,Nantes-Atlantique
+2009,07240,15.0,Tours - Parcay-Meslay
+2009,07255,18.0,Bourges
+2009,07280,16.0,Dijon-Longvic
+2009,07299,21.0,Bâle-Mulhouse
+2009,07314,0.0,Pointe de Chassiron
+2009,07335,17.0,Poitiers-Biard
+2009,07434,9.0,Limoges-Bellegarde
+2009,07460,19.0,Clermont-Ferrand - Aulnat
+2009,07471,10.0,Le Puy-Loudes
+2009,07481,33.0,Lyon-St Exupéry
+2009,07510,22.0,Bordeaux-Mérignac
+2009,07535,32.0,Gourdon
+2009,07577,58.0,Montélimar - Ancone
+2009,07591,40.0,Embrun
+2009,07607,36.0,Mont-de-Marsan
+2009,07621,19.0,Tarbes - Ossun - Lourdes
+2009,07627,23.0,Saint-Girons - Antichan
+2009,07630,44.0,Toulouse-Blagnac
+2009,07643,40.0,Montpellier - Fréjorgues
+2009,07650,65.0,Marseille-Marignane (Marseille Provence)
+2009,07661,11.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2009,07690,9.0,Nice - Côte d'Azur
+2009,07747,42.0,Perpignan - Rivesaltes
+2009,07761,28.0,Ajaccio - Campo dell'Oro
+2009,07790,37.0,Bastia - Poretta
+2010,07005,2.0,Abbeville
+2010,07015,7.0,Lille-Lesquin
+2010,07020,0.0,Cap de La Hague
+2010,07027,2.0,Caen-Carpiquet
+2010,07037,5.0,Rouen-Boos
+2010,07110,0.0,Brest-Guipavas
+2010,07117,0.0,Ploumanac'h - Perros
+2010,07130,6.0,Rennes-St Jacques
+2010,07139,7.0,Alençon - Valframbert
+2010,07149,11.0,Orly - Athis-Mons
+2010,07168,15.0,Troyes-Barberey
+2010,07181,10.0,Nancy-Ochey
+2010,07190,18.0,Strasbourg-Entzheim
+2010,07207,0.0,Belle Ile-Le Talut
+2010,07222,10.0,Nantes-Atlantique
+2010,07240,13.0,Tours - Parcay-Meslay
+2010,07255,16.0,Bourges
+2010,07280,14.0,Dijon-Longvic
+2010,07299,20.0,Bâle-Mulhouse
+2010,07314,0.0,Pointe de Chassiron
+2010,07335,13.0,Poitiers-Biard
+2010,07434,5.0,Limoges-Bellegarde
+2010,07460,11.0,Clermont-Ferrand - Aulnat
+2010,07471,8.0,Le Puy-Loudes
+2010,07481,21.0,Lyon-St Exupéry
+2010,07510,24.0,Bordeaux-Mérignac
+2010,07535,23.0,Gourdon
+2010,07577,41.0,Montélimar - Ancone
+2010,07591,25.0,Embrun
+2010,07607,28.0,Mont-de-Marsan
+2010,07621,10.0,Tarbes - Ossun - Lourdes
+2010,07627,13.0,Saint-Girons - Antichan
+2010,07630,29.0,Toulouse-Blagnac
+2010,07643,34.0,Montpellier - Fréjorgues
+2010,07650,45.0,Marseille-Marignane (Marseille Provence)
+2010,07661,11.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2010,07690,6.0,Nice - Côte d'Azur
+2010,07747,43.0,Perpignan - Rivesaltes
+2010,07761,21.0,Ajaccio - Campo dell'Oro
+2010,07790,26.0,Bastia - Poretta
+2011,07005,2.0,Abbeville
+2011,07015,4.0,Lille-Lesquin
+2011,07020,0.0,Cap de La Hague
+2011,07027,2.0,Caen-Carpiquet
+2011,07037,1.0,Rouen-Boos
+2011,07110,0.0,Brest-Guipavas
+2011,07117,3.0,Ploumanac'h - Perros
+2011,07130,4.0,Rennes-St Jacques
+2011,07139,2.0,Alençon - Valframbert
+2011,07149,6.0,Orly - Athis-Mons
+2011,07168,12.0,Troyes-Barberey
+2011,07181,6.0,Nancy-Ochey
+2011,07190,9.0,Strasbourg-Entzheim
+2011,07207,0.0,Belle Ile-Le Talut
+2011,07222,5.0,Nantes-Atlantique
+2011,07240,7.0,Tours - Parcay-Meslay
+2011,07255,10.0,Bourges
+2011,07280,9.0,Dijon-Longvic
+2011,07299,16.0,Bâle-Mulhouse
+2011,07314,2.0,Pointe de Chassiron
+2011,07335,8.0,Poitiers-Biard
+2011,07434,5.0,Limoges-Bellegarde
+2011,07460,14.0,Clermont-Ferrand - Aulnat
+2011,07471,7.0,Le Puy-Loudes
+2011,07481,14.0,Lyon-St Exupéry
+2011,07510,20.0,Bordeaux-Mérignac
+2011,07535,25.0,Gourdon
+2011,07577,41.0,Montélimar - Ancone
+2011,07591,21.0,Embrun
+2011,07607,31.0,Mont-de-Marsan
+2011,07621,7.0,Tarbes - Ossun - Lourdes
+2011,07627,11.0,Saint-Girons - Antichan
+2011,07630,34.0,Toulouse-Blagnac
+2011,07643,27.0,Montpellier - Fréjorgues
+2011,07650,40.0,Marseille-Marignane (Marseille Provence)
+2011,07661,7.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2011,07690,5.0,Nice - Côte d'Azur
+2011,07747,37.0,Perpignan - Rivesaltes
+2011,07761,21.0,Ajaccio - Campo dell'Oro
+2011,07790,17.0,Bastia - Poretta
+2012,07005,3.0,Abbeville
+2012,07015,4.0,Lille-Lesquin
+2012,07020,0.0,Cap de La Hague
+2012,07027,1.0,Caen-Carpiquet
+2012,07037,6.0,Rouen-Boos
+2012,07110,0.0,Brest-Guipavas
+2012,07117,1.0,Ploumanac'h - Perros
+2012,07130,4.0,Rennes-St Jacques
+2012,07139,4.0,Alençon - Valframbert
+2012,07149,8.0,Orly - Athis-Mons
+2012,07168,12.0,Troyes-Barberey
+2012,07181,9.0,Nancy-Ochey
+2012,07190,17.0,Strasbourg-Entzheim
+2012,07207,0.0,Belle Ile-Le Talut
+2012,07222,9.0,Nantes-Atlantique
+2012,07240,11.0,Tours - Parcay-Meslay
+2012,07255,17.0,Bourges
+2012,07280,12.0,Dijon-Longvic
+2012,07299,13.0,Bâle-Mulhouse
+2012,07314,4.0,Pointe de Chassiron
+2012,07335,16.0,Poitiers-Biard
+2012,07434,11.0,Limoges-Bellegarde
+2012,07460,24.0,Clermont-Ferrand - Aulnat
+2012,07471,8.0,Le Puy-Loudes
+2012,07481,20.0,Lyon-St Exupéry
+2012,07510,25.0,Bordeaux-Mérignac
+2012,07535,33.0,Gourdon
+2012,07577,44.0,Montélimar - Ancone
+2012,07591,37.0,Embrun
+2012,07607,42.0,Mont-de-Marsan
+2012,07621,20.0,Tarbes - Ossun - Lourdes
+2012,07627,22.0,Saint-Girons - Antichan
+2012,07630,49.0,Toulouse-Blagnac
+2012,07643,36.0,Montpellier - Fréjorgues
+2012,07650,60.0,Marseille-Marignane (Marseille Provence)
+2012,07661,16.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2012,07690,7.0,Nice - Côte d'Azur
+2012,07747,39.0,Perpignan - Rivesaltes
+2012,07761,28.0,Ajaccio - Campo dell'Oro
+2012,07790,46.0,Bastia - Poretta
+2013,07005,5.0,Abbeville
+2013,07015,6.0,Lille-Lesquin
+2013,07020,0.0,Cap de La Hague
+2013,07027,4.0,Caen-Carpiquet
+2013,07037,5.0,Rouen-Boos
+2013,07110,0.0,Brest-Guipavas
+2013,07117,0.0,Ploumanac'h - Perros
+2013,07130,10.0,Rennes-St Jacques
+2013,07139,8.0,Alençon - Valframbert
+2013,07149,14.0,Orly - Athis-Mons
+2013,07168,17.0,Troyes-Barberey
+2013,07181,14.0,Nancy-Ochey
+2013,07190,17.0,Strasbourg-Entzheim
+2013,07207,0.0,Belle Ile-Le Talut
+2013,07222,16.0,Nantes-Atlantique
+2013,07240,7.0,Tours - Parcay-Meslay
+2013,07255,19.0,Bourges
+2013,07280,14.0,Dijon-Longvic
+2013,07299,16.0,Bâle-Mulhouse
+2013,07314,1.0,Pointe de Chassiron
+2013,07335,8.0,Poitiers-Biard
+2013,07434,9.0,Limoges-Bellegarde
+2013,07460,18.0,Clermont-Ferrand - Aulnat
+2013,07471,1.0,Le Puy-Loudes
+2013,07481,23.0,Lyon-St Exupéry
+2013,07510,32.0,Bordeaux-Mérignac
+2013,07535,37.0,Gourdon
+2013,07577,41.0,Montélimar - Ancone
+2013,07591,16.0,Embrun
+2013,07607,40.0,Mont-de-Marsan
+2013,07621,15.0,Tarbes - Ossun - Lourdes
+2013,07627,16.0,Saint-Girons - Antichan
+2013,07630,35.0,Toulouse-Blagnac
+2013,07643,33.0,Montpellier - Fréjorgues
+2013,07650,56.0,Marseille-Marignane (Marseille Provence)
+2013,07661,29.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2013,07690,5.0,Nice - Côte d'Azur
+2013,07747,38.0,Perpignan - Rivesaltes
+2013,07761,30.0,Ajaccio - Campo dell'Oro
+2013,07790,38.0,Bastia - Poretta
+2014,07005,1.0,Abbeville
+2014,07015,1.0,Lille-Lesquin
+2014,07020,0.0,Cap de La Hague
+2014,07027,0.0,Caen-Carpiquet
+2014,07037,2.0,Rouen-Boos
+2014,07110,0.0,Brest-Guipavas
+2014,07117,0.0,Ploumanac'h - Perros
+2014,07130,1.0,Rennes-St Jacques
+2014,07139,3.0,Alençon - Valframbert
+2014,07149,3.0,Orly - Athis-Mons
+2014,07168,10.0,Troyes-Barberey
+2014,07181,6.0,Nancy-Ochey
+2014,07190,11.0,Strasbourg-Entzheim
+2014,07207,0.0,Belle Ile-Le Talut
+2014,07222,6.0,Nantes-Atlantique
+2014,07240,3.0,Tours - Parcay-Meslay
+2014,07255,8.0,Bourges
+2014,07280,12.0,Dijon-Longvic
+2014,07299,10.0,Bâle-Mulhouse
+2014,07314,1.0,Pointe de Chassiron
+2014,07335,4.0,Poitiers-Biard
+2014,07434,2.0,Limoges-Bellegarde
+2014,07460,9.0,Clermont-Ferrand - Aulnat
+2014,07471,4.0,Le Puy-Loudes
+2014,07481,12.0,Lyon-St Exupéry
+2014,07510,10.0,Bordeaux-Mérignac
+2014,07535,11.0,Gourdon
+2014,07577,25.0,Montélimar - Ancone
+2014,07591,10.0,Embrun
+2014,07607,20.0,Mont-de-Marsan
+2014,07621,7.0,Tarbes - Ossun - Lourdes
+2014,07627,8.0,Saint-Girons - Antichan
+2014,07630,19.0,Toulouse-Blagnac
+2014,07643,26.0,Montpellier - Fréjorgues
+2014,07650,35.0,Marseille-Marignane (Marseille Provence)
+2014,07661,11.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2014,07690,4.0,Nice - Côte d'Azur
+2014,07747,32.0,Perpignan - Rivesaltes
+2014,07761,13.0,Ajaccio - Campo dell'Oro
+2014,07790,9.0,Bastia - Poretta
+2015,07005,3.0,Abbeville
+2015,07015,4.0,Lille-Lesquin
+2015,07020,0.0,Cap de La Hague
+2015,07027,3.0,Caen-Carpiquet
+2015,07037,8.0,Rouen-Boos
+2015,07110,1.0,Brest-Guipavas
+2015,07117,0.0,Ploumanac'h - Perros
+2015,07130,8.0,Rennes-St Jacques
+2015,07139,6.0,Alençon - Valframbert
+2015,07149,21.0,Orly - Athis-Mons
+2015,07168,30.0,Troyes-Barberey
+2015,07181,27.0,Nancy-Ochey
+2015,07190,34.0,Strasbourg-Entzheim
+2015,07207,0.0,Belle Ile-Le Talut
+2015,07222,11.0,Nantes-Atlantique
+2015,07240,25.0,Tours - Parcay-Meslay
+2015,07255,30.0,Bourges
+2015,07280,35.0,Dijon-Longvic
+2015,07299,31.0,Bâle-Mulhouse
+2015,07314,1.0,Pointe de Chassiron
+2015,07335,20.0,Poitiers-Biard
+2015,07434,18.0,Limoges-Bellegarde
+2015,07460,40.0,Clermont-Ferrand - Aulnat
+2015,07471,21.0,Le Puy-Loudes
+2015,07481,39.0,Lyon-St Exupéry
+2015,07510,31.0,Bordeaux-Mérignac
+2015,07535,39.0,Gourdon
+2015,07577,52.0,Montélimar - Ancone
+2015,07591,37.0,Embrun
+2015,07607,37.0,Mont-de-Marsan
+2015,07621,27.0,Tarbes - Ossun - Lourdes
+2015,07627,33.0,Saint-Girons - Antichan
+2015,07630,41.0,Toulouse-Blagnac
+2015,07643,45.0,Montpellier - Fréjorgues
+2015,07650,54.0,Marseille-Marignane (Marseille Provence)
+2015,07661,32.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2015,07690,19.0,Nice - Côte d'Azur
+2015,07747,38.0,Perpignan - Rivesaltes
+2015,07761,44.0,Ajaccio - Campo dell'Oro
+2015,07790,49.0,Bastia - Poretta
+2016,07005,7.0,Abbeville
+2016,07015,8.0,Lille-Lesquin
+2016,07020,1.0,Cap de La Hague
+2016,07027,6.0,Caen-Carpiquet
+2016,07037,7.0,Rouen-Boos
+2016,07110,3.0,Brest-Guipavas
+2016,07117,2.0,Ploumanac'h - Perros
+2016,07130,10.0,Rennes-St Jacques
+2016,07139,8.0,Alençon - Valframbert
+2016,07149,13.0,Orly - Athis-Mons
+2016,07168,17.0,Troyes-Barberey
+2016,07181,11.0,Nancy-Ochey
+2016,07190,20.0,Strasbourg-Entzheim
+2016,07207,1.0,Belle Ile-Le Talut
+2016,07222,16.0,Nantes-Atlantique
+2016,07240,19.0,Tours - Parcay-Meslay
+2016,07255,21.0,Bourges
+2016,07280,25.0,Dijon-Longvic
+2016,07299,19.0,Bâle-Mulhouse
+2016,07314,5.0,Pointe de Chassiron
+2016,07335,20.0,Poitiers-Biard
+2016,07434,17.0,Limoges-Bellegarde
+2016,07460,29.0,Clermont-Ferrand - Aulnat
+2016,07471,7.0,Le Puy-Loudes
+2016,07481,29.0,Lyon-St Exupéry
+2016,07510,26.0,Bordeaux-Mérignac
+2016,07535,33.0,Gourdon
+2016,07577,50.0,Montélimar - Ancone
+2016,07591,28.0,Embrun
+2016,07607,42.0,Mont-de-Marsan
+2016,07621,20.0,Tarbes - Ossun - Lourdes
+2016,07627,26.0,Saint-Girons - Antichan
+2016,07630,37.0,Toulouse-Blagnac
+2016,07643,43.0,Montpellier - Fréjorgues
+2016,07650,65.0,Marseille-Marignane (Marseille Provence)
+2016,07661,36.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2016,07690,4.0,Nice - Côte d'Azur
+2016,07747,49.0,Perpignan - Rivesaltes
+2016,07761,17.0,Ajaccio - Campo dell'Oro
+2016,07790,34.0,Bastia - Poretta
+2017,07005,7.0,Abbeville
+2017,07015,11.0,Lille-Lesquin
+2017,07020,0.0,Cap de La Hague
+2017,07027,7.0,Caen-Carpiquet
+2017,07037,8.0,Rouen-Boos
+2017,07110,2.0,Brest-Guipavas
+2017,07117,0.0,Ploumanac'h - Perros
+2017,07130,13.0,Rennes-St Jacques
+2017,07139,12.0,Alençon - Valframbert
+2017,07149,18.0,Orly - Athis-Mons
+2017,07168,21.0,Troyes-Barberey
+2017,07181,20.0,Nancy-Ochey
+2017,07190,27.0,Strasbourg-Entzheim
+2017,07207,2.0,Belle Ile-Le Talut
+2017,07222,16.0,Nantes-Atlantique
+2017,07240,19.0,Tours - Parcay-Meslay
+2017,07255,22.0,Bourges
+2017,07280,23.0,Dijon-Longvic
+2017,07299,32.0,Bâle-Mulhouse
+2017,07314,3.0,Pointe de Chassiron
+2017,07335,26.0,Poitiers-Biard
+2017,07434,12.0,Limoges-Bellegarde
+2017,07460,33.0,Clermont-Ferrand - Aulnat
+2017,07471,15.0,Le Puy-Loudes
+2017,07481,39.0,Lyon-St Exupéry
+2017,07510,29.0,Bordeaux-Mérignac
+2017,07535,32.0,Gourdon
+2017,07577,56.0,Montélimar - Ancone
+2017,07591,39.0,Embrun
+2017,07607,37.0,Mont-de-Marsan
+2017,07621,30.0,Tarbes - Ossun - Lourdes
+2017,07627,27.0,Saint-Girons - Antichan
+2017,07630,40.0,Toulouse-Blagnac
+2017,07643,36.0,Montpellier - Fréjorgues
+2017,07650,70.0,Marseille-Marignane (Marseille Provence)
+2017,07661,35.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2017,07690,9.0,Nice - Côte d'Azur
+2017,07747,44.0,Perpignan - Rivesaltes
+2017,07761,39.0,Ajaccio - Campo dell'Oro
+2017,07790,45.0,Bastia - Poretta
+2018,07005,9.0,Abbeville
+2018,07015,15.0,Lille-Lesquin
+2018,07020,0.0,Cap de La Hague
+2018,07027,3.0,Caen-Carpiquet
+2018,07037,15.0,Rouen-Boos
+2018,07110,1.0,Brest-Guipavas
+2018,07117,0.0,Ploumanac'h - Perros
+2018,07130,11.0,Rennes-St Jacques
+2018,07139,12.0,Alençon - Valframbert
+2018,07149,24.0,Orly - Athis-Mons
+2018,07168,32.0,Troyes-Barberey
+2018,07181,18.0,Nancy-Ochey
+2018,07190,38.0,Strasbourg-Entzheim
+2018,07207,4.0,Belle Ile-Le Talut
+2018,07222,20.0,Nantes-Atlantique
+2018,07240,25.0,Tours - Parcay-Meslay
+2018,07255,32.0,Bourges
+2018,07280,35.0,Dijon-Longvic
+2018,07299,39.0,Bâle-Mulhouse
+2018,07314,1.0,Pointe de Chassiron
+2018,07335,27.0,Poitiers-Biard
+2018,07434,12.0,Limoges-Bellegarde
+2018,07460,31.0,Clermont-Ferrand - Aulnat
+2018,07471,8.0,Le Puy-Loudes
+2018,07481,47.0,Lyon-St Exupéry
+2018,07510,39.0,Bordeaux-Mérignac
+2018,07535,44.0,Gourdon
+2018,07577,53.0,Montélimar - Ancone
+2018,07591,25.0,Embrun
+2018,07607,48.0,Mont-de-Marsan
+2018,07621,16.0,Tarbes - Ossun - Lourdes
+2018,07627,15.0,Saint-Girons - Antichan
+2018,07630,51.0,Toulouse-Blagnac
+2018,07643,52.0,Montpellier - Fréjorgues
+2018,07650,67.0,Marseille-Marignane (Marseille Provence)
+2018,07661,27.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2018,07690,17.0,Nice - Côte d'Azur
+2018,07747,60.0,Perpignan - Rivesaltes
+2018,07761,39.0,Ajaccio - Campo dell'Oro
+2018,07790,42.0,Bastia - Poretta
+2019,07005,8.0,Abbeville
+2019,07015,14.0,Lille-Lesquin
+2019,07020,0.0,Cap de La Hague
+2019,07027,7.0,Caen-Carpiquet
+2019,07037,12.0,Rouen-Boos
+2019,07110,3.0,Brest-Guipavas
+2019,07117,1.0,Ploumanac'h - Perros
+2019,07130,13.0,Rennes-St Jacques
+2019,07139,15.0,Alençon - Valframbert
+2019,07149,20.0,Orly - Athis-Mons
+2019,07168,27.0,Troyes-Barberey
+2019,07181,25.0,Nancy-Ochey
+2019,07190,35.0,Strasbourg-Entzheim
+2019,07207,1.0,Belle Ile-Le Talut
+2019,07222,22.0,Nantes-Atlantique
+2019,07240,29.0,Tours - Parcay-Meslay
+2019,07255,39.0,Bourges
+2019,07280,37.0,Dijon-Longvic
+2019,07299,28.0,Bâle-Mulhouse
+2019,07314,5.0,Pointe de Chassiron
+2019,07335,31.0,Poitiers-Biard
+2019,07434,20.0,Limoges-Bellegarde
+2019,07460,46.0,Clermont-Ferrand - Aulnat
+2019,07471,18.0,Le Puy-Loudes
+2019,07481,38.0,Lyon-St Exupéry
+2019,07510,40.0,Bordeaux-Mérignac
+2019,07535,45.0,Gourdon
+2019,07577,62.0,Montélimar - Ancone
+2019,07591,44.0,Embrun
+2019,07607,37.0,Mont-de-Marsan
+2019,07621,20.0,Tarbes - Ossun - Lourdes
+2019,07627,27.0,Saint-Girons - Antichan
+2019,07630,53.0,Toulouse-Blagnac
+2019,07643,54.0,Montpellier - Fréjorgues
+2019,07650,74.0,Marseille-Marignane (Marseille Provence)
+2019,07661,51.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2019,07690,19.0,Nice - Côte d'Azur
+2019,07747,58.0,Perpignan - Rivesaltes
+2019,07761,53.0,Ajaccio - Campo dell'Oro
+2019,07790,38.0,Bastia - Poretta
+2020,07005,15.0,Abbeville
+2020,07015,16.0,Lille-Lesquin
+2020,07020,0.0,Cap de La Hague
+2020,07027,10.0,Caen-Carpiquet
+2020,07037,15.0,Rouen-Boos
+2020,07110,2.0,Brest-Guipavas
+2020,07117,0.0,Ploumanac'h - Perros
+2020,07130,12.0,Rennes-St Jacques
+2020,07139,14.0,Alençon - Valframbert
+2020,07149,21.0,Orly - Athis-Mons
+2020,07168,26.0,Troyes-Barberey
+2020,07181,22.0,Nancy-Ochey
+2020,07190,26.0,Strasbourg-Entzheim
+2020,07207,0.0,Belle Ile-Le Talut
+2020,07222,14.0,Nantes-Atlantique
+2020,07240,20.0,Tours - Parcay-Meslay
+2020,07255,27.0,Bourges
+2020,07280,32.0,Dijon-Longvic
+2020,07299,27.0,Bâle-Mulhouse
+2020,07314,3.0,Pointe de Chassiron
+2020,07335,27.0,Poitiers-Biard
+2020,07434,19.0,Limoges-Bellegarde
+2020,07460,33.0,Clermont-Ferrand - Aulnat
+2020,07471,14.0,Le Puy-Loudes
+2020,07481,43.0,Lyon-St Exupéry
+2020,07510,37.0,Bordeaux-Mérignac
+2020,07535,40.0,Gourdon
+2020,07577,60.0,Montélimar - Ancone
+2020,07591,30.0,Embrun
+2020,07607,46.0,Mont-de-Marsan
+2020,07621,25.0,Tarbes - Ossun - Lourdes
+2020,07627,28.0,Saint-Girons - Antichan
+2020,07630,43.0,Toulouse-Blagnac
+2020,07643,45.0,Montpellier - Fréjorgues
+2020,07650,72.0,Marseille-Marignane (Marseille Provence)
+2020,07661,0.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2020,07690,9.0,Nice - Côte d'Azur
+2020,07747,53.0,Perpignan - Rivesaltes
+2020,07761,34.0,Ajaccio - Campo dell'Oro
+2020,07790,46.0,Bastia - Poretta
+2021,07005,1.0,Abbeville
+2021,07015,1.0,Lille-Lesquin
+2021,07020,0.0,Cap de La Hague
+2021,07027,3.0,Caen-Carpiquet
+2021,07037,1.0,Rouen-Boos
+2021,07110,5.0,Brest-Guipavas
+2021,07117,0.0,Ploumanac'h - Perros
+2021,07130,9.0,Rennes-St Jacques
+2021,07139,3.0,Alençon - Valframbert
+2021,07149,10.0,Orly - Athis-Mons
+2021,07168,11.0,Troyes-Barberey
+2021,07181,4.0,Nancy-Ochey
+2021,07190,9.0,Strasbourg-Entzheim
+2021,07207,3.0,Belle Ile-Le Talut
+2021,07222,10.0,Nantes-Atlantique
+2021,07240,12.0,Tours - Parcay-Meslay
+2021,07255,14.0,Bourges
+2021,07280,11.0,Dijon-Longvic
+2021,07299,8.0,Bâle-Mulhouse
+2021,07314,3.0,Pointe de Chassiron
+2021,07335,15.0,Poitiers-Biard
+2021,07434,3.0,Limoges-Bellegarde
+2021,07460,16.0,Clermont-Ferrand - Aulnat
+2021,07471,6.0,Le Puy-Loudes
+2021,07481,14.0,Lyon-St Exupéry
+2021,07510,19.0,Bordeaux-Mérignac
+2021,07535,16.0,Gourdon
+2021,07577,33.0,Montélimar - Ancone
+2021,07591,16.0,Embrun
+2021,07607,23.0,Mont-de-Marsan
+2021,07621,10.0,Tarbes - Ossun - Lourdes
+2021,07627,19.0,Saint-Girons - Antichan
+2021,07630,25.0,Toulouse-Blagnac
+2021,07643,29.0,Montpellier - Fréjorgues
+2021,07650,55.0,Marseille-Marignane (Marseille Provence)
+2021,07661,0.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2021,07690,11.0,Nice - Côte d'Azur
+2021,07747,40.0,Perpignan - Rivesaltes
+2021,07761,44.0,Ajaccio - Campo dell'Oro
+2021,07790,33.0,Bastia - Poretta
+2022,07005,15.0,Abbeville
+2022,07015,14.0,Lille-Lesquin
+2022,07020,2.0,Cap de La Hague
+2022,07027,12.0,Caen-Carpiquet
+2022,07037,14.0,Rouen-Boos
+2022,07110,7.0,Brest-Guipavas
+2022,07117,2.0,Ploumanac'h - Perros
+2022,07130,24.0,Rennes-St Jacques
+2022,07139,18.0,Alençon - Valframbert
+2022,07149,27.0,Orly - Athis-Mons
+2022,07168,31.0,Troyes-Barberey
+2022,07181,28.0,Nancy-Ochey
+2022,07190,44.0,Strasbourg-Entzheim
+2022,07207,11.0,Belle Ile-Le Talut
+2022,07222,35.0,Nantes-Atlantique
+2022,07240,34.0,Tours - Parcay-Meslay
+2022,07255,34.0,Bourges
+2022,07280,41.0,Dijon-Longvic
+2022,07299,41.0,Bâle-Mulhouse
+2022,07314,11.0,Pointe de Chassiron
+2022,07335,36.0,Poitiers-Biard
+2022,07434,28.0,Limoges-Bellegarde
+2022,07460,44.0,Clermont-Ferrand - Aulnat
+2022,07471,32.0,Le Puy-Loudes
+2022,07481,55.0,Lyon-St Exupéry
+2022,07510,54.0,Bordeaux-Mérignac
+2022,07535,57.0,Gourdon
+2022,07577,77.0,Montélimar - Ancone
+2022,07591,64.0,Embrun
+2022,07607,72.0,Mont-de-Marsan
+2022,07621,48.0,Tarbes - Ossun - Lourdes
+2022,07627,50.0,Saint-Girons - Antichan
+2022,07630,71.0,Toulouse-Blagnac
+2022,07643,62.0,Montpellier - Fréjorgues
+2022,07650,90.0,Marseille-Marignane (Marseille Provence)
+2022,07661,0.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2022,07690,25.0,Nice - Côte d'Azur
+2022,07747,76.0,Perpignan - Rivesaltes
+2022,07761,75.0,Ajaccio - Campo dell'Oro
+2022,07790,77.0,Bastia - Poretta
+2023,07005,7.0,Abbeville
+2023,07015,12.0,Lille-Lesquin
+2023,07020,0.0,Cap de La Hague
+2023,07027,5.0,Caen-Carpiquet
+2023,07037,7.0,Rouen-Boos
+2023,07110,1.0,Brest-Guipavas
+2023,07117,0.0,Ploumanac'h - Perros
+2023,07130,17.0,Rennes-St Jacques
+2023,07139,12.0,Alençon - Valframbert
+2023,07149,23.0,Orly - Athis-Mons
+2023,07168,24.0,Troyes-Barberey
+2023,07181,13.0,Nancy-Ochey
+2023,07190,39.0,Strasbourg-Entzheim
+2023,07207,1.0,Belle Ile-Le Talut
+2023,07222,22.0,Nantes-Atlantique
+2023,07240,29.0,Tours - Parcay-Meslay
+2023,07255,34.0,Bourges
+2023,07280,31.0,Dijon-Longvic
+2023,07299,32.0,Bâle-Mulhouse
+2023,07314,5.0,Pointe de Chassiron
+2023,07335,32.0,Poitiers-Biard
+2023,07434,21.0,Limoges-Bellegarde
+2023,07460,45.0,Clermont-Ferrand - Aulnat
+2023,07471,30.0,Le Puy-Loudes
+2023,07481,47.0,Lyon-St Exupéry
+2023,07510,42.0,Bordeaux-Mérignac
+2023,07535,46.0,Gourdon
+2023,07577,60.0,Montélimar - Ancone
+2023,07591,38.0,Embrun
+2023,07607,50.0,Mont-de-Marsan
+2023,07621,27.0,Tarbes - Ossun - Lourdes
+2023,07627,39.0,Saint-Girons - Antichan
+2023,07630,60.0,Toulouse-Blagnac
+2023,07643,49.0,Montpellier - Fréjorgues
+2023,07650,72.0,Marseille-Marignane (Marseille Provence)
+2023,07661,0.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2023,07690,19.0,Nice - Côte d'Azur
+2023,07747,57.0,Perpignan - Rivesaltes
+2023,07761,47.0,Ajaccio - Campo dell'Oro
+2023,07790,52.0,Bastia - Poretta
+2024,07005,7.0,Abbeville
+2024,07015,8.0,Lille-Lesquin
+2024,07020,0.0,Cap de La Hague
+2024,07027,7.0,Caen-Carpiquet
+2024,07037,4.0,Rouen-Boos
+2024,07110,1.0,Brest-Guipavas
+2024,07117,0.0,Ploumanac'h - Perros
+2024,07130,7.0,Rennes-St Jacques
+2024,07139,8.0,Alençon - Valframbert
+2024,07149,13.0,Orly - Athis-Mons
+2024,07168,17.0,Troyes-Barberey
+2024,07181,14.0,Nancy-Ochey
+2024,07190,24.0,Strasbourg-Entzheim
+2024,07207,2.0,Belle Ile-Le Talut
+2024,07222,7.0,Nantes-Atlantique
+2024,07240,13.0,Tours - Parcay-Meslay
+2024,07255,16.0,Bourges
+2024,07280,23.0,Dijon-Longvic
+2024,07299,31.0,Bâle-Mulhouse
+2024,07314,2.0,Pointe de Chassiron
+2024,07335,16.0,Poitiers-Biard
+2024,07434,10.0,Limoges-Bellegarde
+2024,07460,26.0,Clermont-Ferrand - Aulnat
+2024,07471,12.0,Le Puy-Loudes
+2024,07481,30.0,Lyon-St Exupéry
+2024,07510,20.0,Bordeaux-Mérignac
+2024,07535,33.0,Gourdon
+2024,07577,50.0,Montélimar - Ancone
+2024,07591,37.0,Embrun
+2024,07607,30.0,Mont-de-Marsan
+2024,07621,14.0,Tarbes - Ossun - Lourdes
+2024,07627,20.0,Saint-Girons - Antichan
+2024,07630,39.0,Toulouse-Blagnac
+2024,07643,44.0,Montpellier - Fréjorgues
+2024,07650,64.0,Marseille-Marignane (Marseille Provence)
+2024,07661,0.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2024,07690,30.0,Nice - Côte d'Azur
+2024,07747,48.0,Perpignan - Rivesaltes
+2024,07761,64.0,Ajaccio - Campo dell'Oro
+2024,07790,59.0,Bastia - Poretta
+2025,07005,9.0,Abbeville
+2025,07015,15.0,Lille-Lesquin
+2025,07020,1.0,Cap de La Hague
+2025,07027,8.0,Caen-Carpiquet
+2025,07037,7.0,Rouen-Boos
+2025,07110,6.0,Brest-Guipavas
+2025,07117,2.0,Ploumanac'h - Perros
+2025,07130,23.0,Rennes-St Jacques
+2025,07139,20.0,Alençon - Valframbert
+2025,07149,23.0,Orly - Athis-Mons
+2025,07168,28.0,Troyes-Barberey
+2025,07181,20.0,Nancy-Ochey
+2025,07190,29.0,Strasbourg-Entzheim
+2025,07207,5.0,Belle Ile-Le Talut
+2025,07222,26.0,Nantes-Atlantique
+2025,07240,33.0,Tours - Parcay-Meslay
+2025,07255,38.0,Bourges
+2025,07280,34.0,Dijon-Longvic
+2025,07299,28.0,Bâle-Mulhouse
+2025,07314,10.0,Pointe de Chassiron
+2025,07335,35.0,Poitiers-Biard
+2025,07434,28.0,Limoges-Bellegarde
+2025,07460,43.0,Clermont-Ferrand - Aulnat
+2025,07471,24.0,Le Puy-Loudes
+2025,07481,42.0,Lyon-St Exupéry
+2025,07510,45.0,Bordeaux-Mérignac
+2025,07535,43.0,Gourdon
+2025,07577,54.0,Montélimar - Ancone
+2025,07591,39.0,Embrun
+2025,07607,54.0,Mont-de-Marsan
+2025,07621,39.0,Tarbes - Ossun - Lourdes
+2025,07627,40.0,Saint-Girons - Antichan
+2025,07630,47.0,Toulouse-Blagnac
+2025,07643,53.0,Montpellier - Fréjorgues
+2025,07650,66.0,Marseille-Marignane (Marseille Provence)
+2025,07661,0.0,Saint-Mandrier-sur-Mer - Cap Cépet
+2025,07690,22.0,Nice - Côte d'Azur
+2025,07747,60.0,Perpignan - Rivesaltes
+2025,07761,52.0,Ajaccio - Campo dell'Oro
+2025,07790,48.0,Bastia - Poretta
